@@ -6,3 +6,5 @@ console.log(3);
 let mensaje = "Hay alguien que está escuchando música bastante fea por cierto";
 console.log(mensaje);
 
+let mensaje = "Maldito Windows";
+console.log(mensaje);
